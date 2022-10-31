@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #E5E5E5;
+    text-align: center;
+}
+.card1 {
+    display: inline-block;
+    width: 200px;
+    height: 226px;
+    background: #E0E0E0;
+}
+.box {
+    width: 130px;
+    height: 130px;
+    background: #C4C4C4;
+    margin: 0px 35px 96px 35px;
+}
+.description {
+    width: 39px;
+    height: 18px;
+    color: #FFFFFF;
+    font-size: 14px;
+    margin: 56px 45px 56px 46px;
+    text-align: center;
+}
+.title {
+    font-size: 18px;
+    font-weight: 700;
+}
+.title1 {
+    font-size: 14px;
+    font-weight: 400;
+}
